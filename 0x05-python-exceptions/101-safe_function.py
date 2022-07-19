@@ -1,10 +1,12 @@
 #!/usr/bin/python3
+# 101-safe_function.py
+# Bello Abayomi
 
 import sys
 
 
 def safe_function(fct, *args):
-
+    """Executes a function safely.
     Args:
         fct: The function to execute.
         args: Arguments for fct.
