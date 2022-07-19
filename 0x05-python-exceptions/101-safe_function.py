@@ -4,6 +4,7 @@ import sys
 
 
 def safe_function(fct, *args):
+
     Args:
         fct: The function to execute.
         args: Arguments for fct.
