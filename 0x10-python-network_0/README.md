@@ -76,4 +76,4 @@ What you should learn from this project:
   + You are not allow to use `echo`, `cat`, etc. to display the final result.
 
 ## Author
-* **Bello Abayomi** - [BluvD143](https://github.com/BluvD143)
+* **Bello Abayomi A.** - [BluvD143](https://github.com/BluvD143)
